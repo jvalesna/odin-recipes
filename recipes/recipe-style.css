@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.home-link{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    background-color: burlywood;
+    padding: 5px 10px;
+}
+.home-link:hover{
+    background-color: rgb(218, 155, 73);
+    color: white;
+}
+
+h1, h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:brown;
+}
+p, li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
+
+.container{
+    background-color: blanchedalmond;
+    width: 800px;
+    padding: 10px 20px;
+}
